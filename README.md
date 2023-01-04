@@ -1,6 +1,6 @@
 <html>
    <body>
-    <h1>Clean and Analyze Grades Export</h1>
+    <h1>Clean and Analyze Grades Export from Canvas CSV</h1>
     <p> This script is designed to look at a Canvas Grades Export and pull retention information. This script was designed for Midterm grades but could be used at any interval.</p>
     <h2>Importing Libraries</h2>
     <p>The code imports the pandas and numpy libraries, which will be used for data manipulation and analysis.</p>
