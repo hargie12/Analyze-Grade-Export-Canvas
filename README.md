@@ -7,7 +7,7 @@
     <h2>Setting Pandas Options</h2>
     <p>The pandas options are set to display all rows and columns in the DataFrame when it is printed to the console.</p>
     <h2>Reading in Midterm Grades</h2>
-    <p>The code reads in a CSV file containing midterm grades and stores it in a pandas DataFrame called 'grades'.</p>
+    <p>The code reads in a CSV file containing grades and stores it in a pandas DataFrame called 'grades'.</p>
     <h2>Handling Missing Data</h2>
     <p>Any blank values in the 'current score' column are replaced with 0.</p>
     <h2>Assigning Letter Grades</h2>
